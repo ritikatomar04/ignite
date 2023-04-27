@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ignite/static/css/main.fb5771eb.css",
-    "main.js": "/ignite/static/js/main.35b8b1c0.js",
+    "main.css": "/ignite/static/css/main.90b299bb.css",
+    "main.js": "/ignite/static/js/main.a8839392.js",
     "index.html": "/ignite/index.html",
-    "main.fb5771eb.css.map": "/ignite/static/css/main.fb5771eb.css.map",
-    "main.35b8b1c0.js.map": "/ignite/static/js/main.35b8b1c0.js.map"
+    "main.90b299bb.css.map": "/ignite/static/css/main.90b299bb.css.map",
+    "main.a8839392.js.map": "/ignite/static/js/main.a8839392.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb5771eb.css",
-    "static/js/main.35b8b1c0.js"
+    "static/css/main.90b299bb.css",
+    "static/js/main.a8839392.js"
   ]
 }
